@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  overflow-x: hidden;
+  font-family: "Open Sans", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a,
+a:visited,
+a:hover {
+  text-decoration: none;
+}
